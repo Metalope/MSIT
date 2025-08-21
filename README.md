@@ -62,4 +62,4 @@ The training process is divided into discrete phases, each with a dedicated scri
    ```
 ### License
 
-Specify your project’s license here (e.g., MIT, Apache-2.0).
+MIT License
